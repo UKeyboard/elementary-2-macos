@@ -30,7 +30,28 @@ sudo apt update
 sudo apt install elementary-tweak
 </pre>
 
-Now go to "setting->tweaks" to set GTK theme and icon as I do:
+Now go to "setting->tweaks" to set GTK theme,icon and layout as I do:
 ![Texte alternatif](https://raw.githubusercontent.com/UKeyboard/elementary-2-macos/master/screenshot/Screenshot%20from%202017-04-27%2000.23.28.png "Tweaks-Setting")
 
+Congrats! Enjoy it!
+
+
+What's more
+In order to customize the appearance of dock,copy dock theme file under plank-theme directory to system or user dock theme directory via:
+<pre>
+cd elementary-2-macos
+cp -r plank-theme/Pantiva/ ~/.local/share/plank/
+or 
+sudo cp -r plank-theme/Pantiva/ /usr/share/plank/
+</pre>
+Then right click on the edge of dock to set dock preference.
+
+Screenshots
+![Texte alternatif](https://raw.githubusercontent.com/UKeyboard/elementary-2-macos/master/screenshot/Screenshot%20from%202017-04-26%2022.40.27.png "")
+![Texte alternatif](https://raw.githubusercontent.com/UKeyboard/elementary-2-macos/master/screenshot/Screenshot%20from%202017-04-26%2022.38.52.png "")
+
+References
+icons/la-capitaines-icon-theme --- https://github.com/keeferrourke/la-capitaine-icon-theme
+plank-theme/capeos --- https://github.com/fsvh/plank-themes
+plank-theme/pantiva --- https://github.com/fsvh/plank-themes
 
