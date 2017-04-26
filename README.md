@@ -50,8 +50,8 @@ Then right click on the edge of dock to set dock preference.
 ![Texte alternatif](https://raw.githubusercontent.com/UKeyboard/elementary-2-macos/master/screenshot/Screenshot%20from%202017-04-26%2022.40.27.png "")
 ![Texte alternatif](https://raw.githubusercontent.com/UKeyboard/elementary-2-macos/master/screenshot/Screenshot%20from%202017-04-26%2022.38.52.png "")
 
-References
-icons/la-capitaines-icon-theme --- https://github.com/keeferrourke/la-capitaine-icon-theme
-plank-theme/capeos --- https://github.com/fsvh/plank-themes
-plank-theme/pantiva --- https://github.com/fsvh/plank-themes
+#### References
+* icons/la-capitaines-icon-theme --- https://github.com/keeferrourke/la-capitaine-icon-theme
+* plank-theme/capeos --- https://github.com/fsvh/plank-themes
+* plank-theme/pantiva --- https://github.com/fsvh/plank-themes
 
